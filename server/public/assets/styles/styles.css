@@ -1,0 +1,11 @@
+body{
+      padding: 20px;
+      border: 20px;
+      margin: auto auto auto auto;;
+}
+
+.enter-animals {
+  display: block;
+  float: left;
+  padding: 50px;
+}
